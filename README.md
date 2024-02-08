@@ -1,1 +1,2 @@
-# A guide to the TimeClock i created
+# A TimeClock
+This is a timeclock of HTML & CSS
