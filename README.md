@@ -1,2 +1,2 @@
 # A TimeClock
-This is a timeclock of HTML & CSS
+This is a timeclock using HTML & CSS
